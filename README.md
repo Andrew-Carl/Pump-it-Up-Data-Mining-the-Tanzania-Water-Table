@@ -42,6 +42,5 @@ Confusion Matrix:
 ![screen shot 2018-04-06 at 8 33 50 am](https://user-images.githubusercontent.com/35437820/38469868-6c016796-3b29-11e8-9c41-3e66851dc129.png)
 
 
-As noted above I am still trying to optimize these models and make these numbers beter. I am also going to run a logisitic
-regression and a gradient boosting classifier. Hopefully these will create better predictions. 
+As noted above I am still trying to optimize these models and make these numbers more accurate. I am also going to run a logisitic regression and a gradient boosting classifier. Hopefully these will create better predictions. 
 
