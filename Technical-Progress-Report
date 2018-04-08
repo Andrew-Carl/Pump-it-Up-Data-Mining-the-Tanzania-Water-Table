@@ -1,0 +1,40 @@
+note: This project is still underway and I'm trying to optimize my models to make the best predictions possible. 
+
+# How was the data aquaired? (including any sampling that was performed):
+
+Data was aquired from the Tanzania Ministry of Water and the Taarifa Platform. The Taarifa Plateform is an open source API 
+designed to use citizen feedback on local problems. 
+
+# How the data was transformed and cleaned:
+
+I used PandasProfiling to explore all of the columns in the data. The data had a few columns with a large amount of missing 
+values. I chose to immediately drop those columns, due to the high volume of missing values. Imputing data or filling 
+missing values would've changed the data too much. It was better to just drop them. Looking further into the data, there was 
+also a decent amount of columns that were very similiar to one another. I examined these columns using value counts. If the 
+columns were two similar, I chose to keep whichever one I thought was better and drop the other. I also group the contruction
+years by decade since there were unique values for every year from 1960-2013. This would help later on when I needed to make 
+dummy variables for my classification models. Luckily from there the data was cleaned up and I was comfotable to start running 
+some models. 
+
+# Outcome Variable:
+
+My outcome variable is the status and functionallity of all of the ground water pumps found in Tanzania. My goal is to predict 
+the which of the thousands of water pumps in Tanzania are functional, need repair or are completely non-functional. If my 
+models are accurate, this could help save the Tanzanian government a lot of time and money.
+
+# Models
+
+SO far I have run three models on the data. I have run a K-Nearest Neighbors model, a Random Forest with balanced classes and 
+a Random Forest with a gridsearch. My scores so far have been:
+KNN = 0.66
+Random Forest with Balanced Classes = 0.786
+Random Forest with Gridsearch = -.807
+
+
+
+
+As noted above I am still trying to optimize these models and make these numbers beter. I am also going to run a logisitic
+regression and a gradient boosting classifier. Hopefully these will create better predictions. 
+
+
+
