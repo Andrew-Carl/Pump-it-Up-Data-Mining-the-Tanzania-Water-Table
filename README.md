@@ -36,7 +36,8 @@ a Random Forest with a gridsearch. My scores so far have been:
 
 KNN = 0.66
 Random Forest with Balanced Classes = 0.786
-Random Forest with Gridsearch = .807
+Random Forest with Gridsearch = 0.807
+Gradient Boosting Classifier = 0.809
 
 Confusion Matrix:
 
