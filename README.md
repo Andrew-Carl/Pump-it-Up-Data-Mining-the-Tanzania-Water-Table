@@ -47,6 +47,6 @@ Confusion Matrix:
 
 As noted above I am still trying to optimize these models and make these numbers more accurate. I am also going to run a logisitic regression and a gradient boosting classifier. Hopefully these will create better predictions. 
 
-I also created a short presentation of my progress so far. A longer and more technical presentation will be posted in the near future. 
+I also created a short presentation of my progress so far. A longer and more technical presentation will be posted in the near future.  
 https://docs.google.com/presentation/d/11blM6ZlFcipx6VkIs_21kOYRaZd8ofzsYdOS5HxPe3s/edit?usp=sharing
 
