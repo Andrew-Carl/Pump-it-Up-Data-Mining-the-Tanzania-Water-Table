@@ -8,7 +8,7 @@ note: This project is still underway as I am trying to optimize my models to mak
 
 # Background:
 
-Currently Tanzania has a poor system for water access throughout their country. Approximately 47% of all Tanzanian citizens do not have access to clean drinking water. Over $1.4 billion dollars in foreign aid has been giving to Tanzania in an attempt to help fix the freshwater crisis. However, the Tanzanian government is failing to fix this problem. Many people are left to drink dirty, pathogen filled water, or walk miles on end to the closest functional ground water pump. 
+Currently Tanzania has a poor system for clean water access throughout their country. Approximately 47% of all Tanzanian citizens do not have access to clean drinking water. Over $1.4 billion dollars in foreign aid has been giving to Tanzania in an attempt to help fix the freshwater crisis. However, the Tanzanian government is failing to fix this problem. Many people are left to drink dirty, pathogen filled water, or walk miles on end to the closest functional ground water pump. 
 
 # How the data was acquired:
 
