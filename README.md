@@ -31,8 +31,7 @@ models are accurate, this could help save the Tanzanian government a lot of time
 
 # Models:
 
-So far I have run three models on the data. I have run a K-Nearest Neighbors model, a Random Forest with balanced classes and 
-a Random Forest with a gridsearch. My scores so far have been:
+So far I have run four models on the data. I have run a K-Nearest Neighbors model, a Random Forest with balanced classes, a Random Forest with a gridsearch, and a Gradient Boosting Classifier. My scores so far have been:
 
 KNN = 0.66  
 Random Forest with Balanced Classes = 0.786  
