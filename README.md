@@ -1,4 +1,4 @@
-# Pump-it-Up-Data-Mining-the-Tanzania-Water-Table
+# Pump it Up, Data Mining the Tanzania Water Table
 
 note: This project is still underway as I am trying to optimize my models to make the best predictions possible. 
 
