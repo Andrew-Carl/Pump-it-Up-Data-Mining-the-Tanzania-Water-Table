@@ -31,12 +31,13 @@ models are accurate, this could help save the Tanzanian government a lot of time
 
 # Models:
 
-So far I have run four models on the data. I have run a K-Nearest Neighbors model, a Random Forest with balanced classes, a Random Forest with a gridsearch, and a Gradient Boosting Classifier. My scores so far have been:
+So far I have run five models on the data. I have run a K-Nearest Neighbors model, a Logistic Regression, a Random Forest with balanced classes, a Random Forest with a gridsearch, and a Gradient Boosting Classifier. My scores so far have been:
 
-KNN = 0.66  
-Random Forest with Balanced Classes = 0.786  
-Random Forest with Gridsearch = 0.807  
-Gradient Boosting Classifier = 0.809
+- KNN = 0.662
+- Logistic Regression = 0.736
+- Random Forest with Balanced Classes = 0.786  
+- Random Forest with Gridsearch = 0.807  
+- Gradient Boosting Classifier = 0.809
 
 Confusion Matrix:
 
