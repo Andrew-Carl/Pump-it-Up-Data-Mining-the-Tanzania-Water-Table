@@ -1,6 +1,6 @@
 # Pump it Up, Data Mining the Tanzania Water Table
 
-note: This project is techinically finished, but I am trying to optimize my models to improve my models and make the best predictions possible. 
+note: This project is technically finished, but I am trying to optimize my models and make the best predictions possible. 
 
 ![pumping](https://user-images.githubusercontent.com/35437820/38469963-9c9f9da4-3b2a-11e8-8e20-78438207577d.jpg)
 
