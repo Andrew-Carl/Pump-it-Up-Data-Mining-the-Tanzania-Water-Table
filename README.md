@@ -39,11 +39,14 @@ So far I have run five models on the data. I have run a K-Nearest Neighbors mode
 - Random Forest with Gridsearch = 0.807  
 - Gradient Boosting Classifier = 0.809
 
-Confusion Matrix:
+Confusion Matrix using Gradient Boosting Classifier:
 
 ![screen shot 2018-04-06 at 8 32 21 am](https://user-images.githubusercontent.com/35437820/38469726-73328790-3b27-11e8-99a6-bc3344e59a00.png)
 ![screen shot 2018-04-06 at 8 33 50 am](https://user-images.githubusercontent.com/35437820/38469868-6c016796-3b29-11e8-9c41-3e66851dc129.png)
 
+Confusion Matrix using Random Forest with Gridsearch:
+
+![screen shot 2018-05-31 at 9 24 46 pm](https://user-images.githubusercontent.com/35437820/40816138-2cf6a75e-6519-11e8-9bb1-16aab189b190.png)
 
 As noted above I am still trying to optimize these models and make these numbers more accurate. I am also going to run a logisitic regression and a gradient boosting classifier. Hopefully these will create better predictions. 
 
