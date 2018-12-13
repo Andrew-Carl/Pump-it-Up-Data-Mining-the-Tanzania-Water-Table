@@ -8,6 +8,13 @@
 
 Currently Tanzania has a poor system for clean water access throughout their country. Approximately 47% of all Tanzanian citizens do not have access to clean drinking water. Over $1.4 billion dollars in foreign aid has been giving to Tanzania in an attempt to help fix the freshwater crisis. However, the Tanzanian government is failing to fix this problem. Many people are left to drink dirty, pathogen filled water, or walk miles on end to the closest functional ground water pump. 
 
+# Task/Goal
+
+- Predict the functionality of thousands of ground water pumps found throughout the country of Tanzania. 
+- If models are accurate, this could help save the Tanzanian government a lot of time and money.
+- Can cut cost on having workers drive out to every water pump to inspect them.
+- Instead the government can use this study and know exactly which pumps need repair and which ones aren’t working at all. 
+
 # How the data was acquired:
 
 Data was aquired from the Tanzania Ministry of Water and the Taarifa Platform. The Taarifa Plateform is an open source API 
@@ -46,6 +53,7 @@ Confusion Matrix using Random Forest with Gridsearch:
 
 ![screen shot 2018-05-31 at 9 24 46 pm](https://user-images.githubusercontent.com/35437820/40816138-2cf6a75e-6519-11e8-9bb1-16aab189b190.png)
 ![screen shot 2018-05-31 at 9 24 57 pm](https://user-images.githubusercontent.com/35437820/40816197-85ff6160-6519-11e8-85ad-27fde64fd1ba.png)
+
 
 
 I also created a short presentation of my progress so far. A longer and more technical presentation will be posted in the near future.  
