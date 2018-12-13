@@ -54,7 +54,9 @@ Confusion Matrix using Random Forest with Gridsearch:
 ![screen shot 2018-05-31 at 9 24 46 pm](https://user-images.githubusercontent.com/35437820/40816138-2cf6a75e-6519-11e8-9bb1-16aab189b190.png)
 ![screen shot 2018-05-31 at 9 24 57 pm](https://user-images.githubusercontent.com/35437820/40816197-85ff6160-6519-11e8-85ad-27fde64fd1ba.png)
 
+# Predictions Map
 
+![image](https://user-images.githubusercontent.com/35437820/49950882-ac26be00-fec6-11e8-82ff-08af5b143a6c.png)
 
 I also created a short presentation of my progress so far. A longer and more technical presentation will be posted in the near future.  
 https://docs.google.com/presentation/d/11blM6ZlFcipx6VkIs_21kOYRaZd8ofzsYdOS5HxPe3s/edit?usp=sharing
