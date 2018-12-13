@@ -1,7 +1,5 @@
 # Pump it Up, Data Mining the Tanzania Water Table
 
-note: This project is technically finished, but I am trying to optimize my models and make the best predictions possible. 
-
 ![pumping](https://user-images.githubusercontent.com/35437820/38469963-9c9f9da4-3b2a-11e8-8e20-78438207577d.jpg)
 
 ** Photo from(https://www.flickr.com/photos/christophercjensen/3559607145)
@@ -49,7 +47,6 @@ Confusion Matrix using Random Forest with Gridsearch:
 ![screen shot 2018-05-31 at 9 24 46 pm](https://user-images.githubusercontent.com/35437820/40816138-2cf6a75e-6519-11e8-9bb1-16aab189b190.png)
 ![screen shot 2018-05-31 at 9 24 57 pm](https://user-images.githubusercontent.com/35437820/40816197-85ff6160-6519-11e8-85ad-27fde64fd1ba.png)
 
-As noted above I am still trying to optimize these models and make these numbers more accurate. I am also going to run a logisitic regression and a gradient boosting classifier. Hopefully these will create better predictions. 
 
 I also created a short presentation of my progress so far. A longer and more technical presentation will be posted in the near future.  
 https://docs.google.com/presentation/d/11blM6ZlFcipx6VkIs_21kOYRaZd8ofzsYdOS5HxPe3s/edit?usp=sharing
