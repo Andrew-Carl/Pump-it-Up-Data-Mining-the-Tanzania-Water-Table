@@ -39,7 +39,7 @@ My outcome variable is the status and functionality of all of the ground water p
 
 # Models:
 
-So far I have run five models on the data. I have run a K-Nearest Neighbors model, a Logistic Regression, a Random Forest with balanced classes, a Random Forest with a grid-search, and a Gradient Boosting Classifier. My score so far have been:
+So far I have run five models on the data. I have run a K-Nearest Neighbors model, a Logistic Regression, a Random Forest with balanced classes, a Random Forest with a grid-search, and a Gradient Boosting Classifier. My F-1 scores so far have been:
 
 - KNN = 0.662
 - Logistic Regression = 0.736
